@@ -1,0 +1,34 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+Height 768=695
+State=AAAA/wAAAAD9AAAAAAAABSIAAAJ8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1314
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/FE_Map_Editor/FE8 - Fields - 01000203.png
+File10[$e]=$HOME/Pictures/Screenshot_20200405_200054.png
+File2[$e]=$HOME/Desktop/FE_Map_Editor/FE8 - Desert - 42004344.png
+File3[$e]=$HOME/Desktop/FE_Map_Editor/FE8 - Castle - 1800481a.png
+File4[$e]=$HOME/Desktop/FE_Map_Editor/FE8 - Black Temple - 5f006061.png
+File5[$e]=$HOME/Desktop/FE_Map_Editor/FE7 - Village - 10001112.png
+File6[$e]=$HOME/Desktop/FE_Map_Editor/FE7 - Snow Castle - 91009293.png
+File7[$e]=$HOME/Pictures/Screenshot_20200405_200209.png
+File8[$e]=$HOME/Pictures/Screenshot_20200405_200146.png
+File9[$e]=$HOME/Pictures/Screenshot_20200331_115810.png
+Name1[$e]=FE8 - Fields - 01000203.png
+Name10[$e]=Screenshot_20200405_200054.png
+Name2[$e]=FE8 - Desert - 42004344.png
+Name3[$e]=FE8 - Castle - 1800481a.png
+Name4[$e]=FE8 - Black Temple - 5f006061.png
+Name5[$e]=FE7 - Village - 10001112.png
+Name6[$e]=FE7 - Snow Castle - 91009293.png
+Name7[$e]=Screenshot_20200405_200209.png
+Name8[$e]=Screenshot_20200405_200146.png
+Name9[$e]=Screenshot_20200331_115810.png
+
+[SideBar]
+IsVisible ViewMode=false
+SideBarSplitterSizes=149,1159

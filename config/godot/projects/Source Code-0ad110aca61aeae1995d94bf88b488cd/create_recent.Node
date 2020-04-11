@@ -1,0 +1,6 @@
+AudioStreamPlayer2D
+CollisionPolygon2D
+Node2D
+StaticBody2D
+RigidBody2D
+Sprite

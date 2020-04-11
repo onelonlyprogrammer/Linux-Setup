@@ -1,0 +1,24 @@
+[MainWindow]
+Height 768=695
+State=AAAA/wAAAAD9AAAAAAAAAosAAAI0AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABGAGkAbABlAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABFAGQAaQB0AQAAALX/////AAAAAAAAAAAAAAACAAAAAgAAADQATQBhAGkAbgBXAGkAZABnAGUAdAAgAFIAZQBjAG8AcgBkAC8AUABsAGEAeQBiAGEAYwBrAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABaAG8AbwBtAQAAAfr/////AAAAAAAAAAA=
+Width 1366=651
+toolbars=3
+
+[MainWindow][Toolbar MainWidget Edit]
+IconSize=24
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget File]
+IconSize=24
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Record/Playback]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Zoom]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[Recent Files]
+0=/home/myles/Downloads/Sonic music/IsolatedIslandClassic.mp3

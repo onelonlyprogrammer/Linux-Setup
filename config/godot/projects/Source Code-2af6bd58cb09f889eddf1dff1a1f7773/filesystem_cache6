@@ -1,0 +1,47 @@
+be5a452dd999bd920376c85c99f0f384
+::res://::1586012436
+default_env.tres::Environment::1552767112::0::1::::<><>::
+icon.png::StreamTexture::1552767112::1586012438::1::::<><>::
+main.tscn::PackedScene::1552767112::0::1::::<><>::res://Gameplay Scripts/main.gd<>res://Gameplay Scripts/player_camera.gd<>res://Gameplay Scripts/player_physics.gd<>res://Gameplay Scripts/state_machine.gd<>res://Gameplay Scripts/States/on_ground.gd<>res://Gameplay Scripts/States/on_air.gd<>res://Gameplay Scripts/States/spin_dash.gd<>res://Gameplay Scripts/States/super_peel_out.gd<>res://Sprites/Sonic.png<>res://Gameplay Scripts/character_animator.gd<>res://Gameplay Scripts/character_vfx.gd<>res://Sprites/spinDash.png<>res://Sprites/instaShield.png<>res://Gameplay Scripts/audio_player.gd<>res://Audio/sfx/jump.wav<>res://Audio/sfx/brake.wav<>res://Audio/sfx/spin.wav<>res://Audio/sfx/spinDashCharge.wav<>res://Audio/sfx/spinDashRelease.wav<>res://Audio/sfx/peelOutCharge.wav<>res://Audio/sfx/peelOutRelease.wav<>res://Audio/sfx/instaShield.wav<>res://Test Zone/loop_part.res<>res://Test Zone/loop_part_blue.res<>res://Test Zone/loop_part_red.res<>res://General/MaskSetterRed.res<>res://General/MaskSetterBlue.res<>res://General/MaskSetterInvert.res<>res://Test Zone/block.tscn<>res://Sprites/prototype_tile.png<>res://Audio/musics/sky_sanctuary_zone.ogg
+::res://Audio/::1552767112
+::res://Audio/musics/::1552767112
+sky_sanctuary_zone.ogg::AudioStreamOGGVorbis::1552767112::1586012437::1::::<><>::
+::res://Audio/sfx/::1552767112
+brake.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+charge.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+instaShield.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+jump.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+peelOutCharge.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+peelOutRelease.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+spin.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+spinDashCharge.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+spinDashRelease.wav::AudioStreamSample::1552767112::1586012437::1::::<><>::
+::res://Gameplay Scripts/::1552767112
+audio_player.gd::GDScript::1552767112::0::1::::AudioPlayer<>Node2D<>::
+character_animator.gd::GDScript::1552767112::0::1::::CharacterAnimator<>AnimationPlayer<>::
+character_vfx.gd::GDScript::1552767112::0::1::::<>Node2D<>::
+main.gd::GDScript::1552767112::0::1::::<>Node<>::
+MaskSetter.gd::GDScript::1552767112::0::1::::<>Area2D<>::
+player_camera.gd::GDScript::1552767112::0::1::::PlayerCamera<>Node2D<>::
+player_physics.gd::GDScript::1552767112::0::1::::PlayerPhysics<>KinematicBody2D<>::
+state.gd::GDScript::1552767112::0::1::::<>Node<>::
+state_machine.gd::GDScript::1552767112::0::1::::<>Node<>::
+::res://Gameplay Scripts/States/::1552767112
+on_air.gd::GDScript::1552767112::0::1::::<><>::res://Gameplay Scripts/state.gd
+on_ground.gd::GDScript::1552767112::0::1::::<><>::res://Gameplay Scripts/state.gd
+spin_dash.gd::GDScript::1552767112::0::1::::<><>::res://Gameplay Scripts/state.gd
+super_peel_out.gd::GDScript::1552767112::0::1::::<><>::res://Gameplay Scripts/state.gd
+::res://General/::1552767112
+MaskSetterBlue.res::PackedScene::1552767112::0::1::::<><>::res://Gameplay Scripts/MaskSetter.gd
+MaskSetterInvert.res::PackedScene::1552767112::0::1::::<><>::res://Gameplay Scripts/MaskSetter.gd
+MaskSetterRed.res::PackedScene::1552767112::0::1::::<><>::res://Gameplay Scripts/MaskSetter.gd
+::res://Sprites/::1552767112
+instaShield.png::StreamTexture::1552767112::1586012437::1::::<><>::
+prototype_tile.png::StreamTexture::1552767112::1586012438::1::::<><>::
+Sonic.png::StreamTexture::1552767112::1586012438::1::::<><>::
+spinDash.png::StreamTexture::1552767112::1586012438::1::::<><>::
+::res://Test Zone/::1552767112
+block.tscn::PackedScene::1552767112::0::1::::<><>::res://Sprites/prototype_tile.png
+loop_part.res::PackedScene::1552767112::0::1::::<><>::res://Sprites/prototype_tile.png
+loop_part_blue.res::PackedScene::1552767112::0::1::::<><>::res://Sprites/prototype_tile.png
+loop_part_red.res::PackedScene::1552767112::0::1::::<><>::res://Sprites/prototype_tile.png

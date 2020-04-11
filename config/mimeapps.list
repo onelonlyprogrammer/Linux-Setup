@@ -1,0 +1,34 @@
+[Added Associations]
+application/x-extension-htm=firefox.desktop;
+application/x-extension-html=firefox.desktop;
+application/x-extension-shtml=firefox.desktop;
+application/x-extension-xht=firefox.desktop;
+application/x-extension-xhtml=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+audio/mpeg=vlc.desktop;
+image/jpeg=org.kde.gwenview.desktop;
+message/rfc822=userapp-Thunderbird-3DJ8G0.desktop;
+text/html=firefox.desktop;
+video/mpeg=vlc.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+x-scheme-handler/ftp=firefox.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-3DJ8G0.desktop;
+
+[Default Applications]
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/x-extension-xht=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+audio/mpeg=vlc.desktop;
+message/rfc822=userapp-Thunderbird-3DJ8G0.desktop
+text/html=firefox.desktop
+video/mpeg=vlc.desktop;
+x-scheme-handler/chrome=firefox.desktop
+x-scheme-handler/ftp=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-3DJ8G0.desktop

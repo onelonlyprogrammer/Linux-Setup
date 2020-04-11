@@ -1,0 +1,41 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAc4AAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAA1AAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 768=538
+Width 1366=599
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=91177.jpg,file:$HOME/Pictures/91177.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 768=430
+Width 1366=402
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_netbeans.desktop,1 services_screenlocker.desktop,1 services_vim.desktop,2 services_firefox.desktop,4 services_org.shotcut.Shotcut.desktop,2 services_terminator.desktop,2 services_gvim.desktop,6 services_retroarch.desktop,1 services_vlc.desktop,1 services_audacity.desktop,4 services_org.kde.dolphin.desktop,2 services_thunderbird.desktop,1 services_eclipse.desktop,1 services_org.kde.konsole.desktop,7 services_kcm_printer_manager.desktop,3 services_kvantummanager.desktop,2 services_org.kde.kwrite.desktop,15 services_systemsettings.desktop,1 services_code-oss.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1366]
+thickness=36
+
+[PlasmaViews][Panel 22][Defaults]
+thickness=22
+
+[PlasmaViews][Panel 22][Horizontal1366]
+thickness=22
+
+[ScreenConnectors]
+0=eDP1
+1=VGA1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

@@ -1,0 +1,28 @@
+be5a452dd999bd920376c85c99f0f384
+::res://::1585961593
+default_env.tres::Environment::1585961573::0::1::::<><>::
+icon.png::StreamTexture::1585961573::1585961576::1::::<><>::
+::res://Source Code/::1585961593
+icon.png::StreamTexture::1585961593::1585961595::1::::<><>::
+::res://Source Code/Audio/::1585961593
+::res://Source Code/Audio/musics/::1585961593
+sky_sanctuary_zone.ogg::AudioStreamOGGVorbis::1585961593::1585961593::1::::<><>::
+::res://Source Code/Audio/sfx/::1585961593
+brake.wav::AudioStreamSample::1585961593::1585961593::1::::<><>::
+charge.wav::AudioStreamSample::1585961593::1585961593::1::::<><>::
+instaShield.wav::AudioStreamSample::1585961593::1585961594::1::::<><>::
+jump.wav::AudioStreamSample::1585961593::1585961594::1::::<><>::
+peelOutCharge.wav::AudioStreamSample::1585961593::1585961594::1::::<><>::
+peelOutRelease.wav::AudioStreamSample::1585961593::1585961594::1::::<><>::
+spin.wav::AudioStreamSample::1585961593::1585961594::1::::<><>::
+spinDashCharge.wav::AudioStreamSample::1585961593::1585961594::1::::<><>::
+spinDashRelease.wav::AudioStreamSample::1585961593::1585961594::1::::<><>::
+::res://Source Code/Gameplay Scripts/::1585961593
+::res://Source Code/Gameplay Scripts/States/::1585961593
+::res://Source Code/General/::1585961593
+::res://Source Code/Sprites/::1585961593
+instaShield.png::StreamTexture::1585961593::1585961594::1::::<><>::
+prototype_tile.png::StreamTexture::1585961593::1585961594::1::::<><>::
+Sonic.png::StreamTexture::1585961593::1585961595::1::::<><>::
+spinDash.png::StreamTexture::1585961593::1585961595::1::::<><>::
+::res://Source Code/Test Zone/::1585961593

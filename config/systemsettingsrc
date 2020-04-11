@@ -1,0 +1,13 @@
+[KFileDialog Settings]
+Recent Files[$e]=Akava.colors,file:$HOME/Downloads/Akava-Colors-master/Akava.colors
+Recent URLs[$e]=file:$HOME/Downloads/Akava-Colors-master/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=691
+Height 768=695
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABSIAAAK3AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1314
+Width 1920=1024

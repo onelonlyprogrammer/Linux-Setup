@@ -1,0 +1,31 @@
+[1]
+Description=Window settings for code-oss
+clientmachine=localhost
+clientmachinematch=0
+opacityactive=85
+opacityactiverule=2
+opacityinactive=80
+opacityinactiverule=2
+title=Welcome - Code - OSS
+titlematch=0
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=code-oss
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=Application settings for code-oss
+clientmachine=localhost
+clientmachinematch=0
+opacityactive=85
+opacityactiverule=2
+opacityinactive=80
+opacityinactiverule=2
+wmclass=code-oss
+wmclasscomplete=false
+wmclassmatch=1
+
+[General]
+count=2
