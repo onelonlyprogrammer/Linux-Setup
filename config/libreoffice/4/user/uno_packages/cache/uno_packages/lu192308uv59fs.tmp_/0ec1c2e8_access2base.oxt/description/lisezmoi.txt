@@ -1,0 +1,11 @@
+﻿Access2base est une API similaire à celle de MsAccess pour LibreOffice/OpenOffice Base
+
+La présente version est PRE-INSTALLEE DANS LIBREOFFICE 6.1 ET VERSIONS ULTERIEURES.
+A N'INSTALLER QUE SOUS OPENOFFICE (toutes versions) OU LIBREOFFICE (versions <= 6.0) !!
+DAVANTAGE DE DETAILS SUR http://www.access2base.com/access2base.html#Install
+
+Access2Base est une extension de LibreOffice/OpenOffice pour développeurs d'applications (business ou personnelles) ou utilisateurs avertis.
+Elle comprend une bibliothèque de macros Basic inspirées principalement du VBA pour MSAccess et son modèle d'objets.
+Cette bibliothèque est beaucoup plus intuitive et d'un apprentissage beaucoup plus aisé que l'API UNO standard.
+
+Une documentation (en anglais) est disponible depuis le menu d'aide de l'éditeur de modules Basic ou sur http://www.access2base.com

@@ -25,8 +25,10 @@ PreloadWeight=0
 
 [Containments][1][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=461
+ToolBoxButtonX=477
 ToolBoxButtonY=22
+positions=2,12,desktop:/Roofer Emails,0,9,desktop:/Sonic Utopia Demo v1,1,0,desktop:/landing_page,0,2,desktop:/tsukuyomi_v01,0,3,desktop:/calculator,0,0,desktop:/Godot-Sonic-Physics-master,0,1,desktop:/SF2Edit16bAll,0,6,desktop:/FEBuilderGBA,0,7,desktop:/Sonic Test,0,4,desktop:/Godot_v3.2.1-stable_x11.64,0,5,desktop:/MS Office,0,10,desktop:/Minecraft.laccdb,0,11,desktop:/Minecraft.accdb,0,8
+sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///home/myles/Pictures/91177.jpg
@@ -45,7 +47,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][22][Applets][23][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 
 [Containments][22][Applets][23][Configuration][General]
 favoritesPortedToKAstats=true
@@ -68,7 +70,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][22][Applets][26][Configuration]
-PreloadWeight=81
+PreloadWeight=100
 SystrayContainmentId=27
 
 [Containments][22][Applets][28]
@@ -76,7 +78,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][22][Applets][28][Configuration]
-PreloadWeight=40
+PreloadWeight=38
 
 [Containments][22][Applets][29]
 immutability=1
@@ -121,19 +123,22 @@ plugin=org.kde.plasma.volume
 [Containments][27][Applets][30][Configuration]
 PreloadWeight=0
 
+[Containments][27][Applets][30][Configuration][General]
+globalMute=true
+
 [Containments][27][Applets][31]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][27][Applets][31][Configuration]
-PreloadWeight=49
+PreloadWeight=0
 
 [Containments][27][Applets][32]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][27][Applets][32][Configuration]
-PreloadWeight=76
+PreloadWeight=46
 
 [Containments][27][Applets][33]
 immutability=1
@@ -154,7 +159,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][27][Applets][35][Configuration]
-PreloadWeight=55
+PreloadWeight=15
 
 [Containments][27][Applets][36]
 immutability=1
@@ -189,13 +194,20 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][27][Applets][40][Configuration]
-PreloadWeight=69
+PreloadWeight=80
 
 [Containments][27][Applets][42]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][27][Applets][42][Configuration]
+PreloadWeight=0
+
+[Containments][27][Applets][45]
+immutability=1
+plugin=org.kde.plasma.bluetooth
+
+[Containments][27][Applets][45][Configuration]
 PreloadWeight=0
 
 [Containments][27][ConfigDialog]
@@ -229,5 +241,5 @@ PreloadWeight=0
 Image=file:///home/myles/Pictures/91177.jpg
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,13,file:///home/myles/Downloads/1997 - Fire Emblem - The Sacred Stones (U)(TrashMan).gba,file:///home/myles/Downloads/Sacred Trilogy 05-03-20 Fixed Growths With Minimug.ups,file:///home/myles/Downloads/forceblur,desktop:/Fire Emblem - the Sacred Stones %23 GBA.GBA,desktop:/Godot-Sonic-Physics-master.zip,desktop:/Player,desktop:/Godot_v3.2.1-stable_x11.64,desktop:/calculator,desktop:/FE_Map_Editor,desktop:/Kvantum-master,desktop:/landing_page,desktop:/Sonic Test,desktop:/Godot-Sonic-Physics-master
-screenMapping=desktop:/Fire Emblem - the Sacred Stones %23 GBA.GBA,0,desktop:/Godot-Sonic-Physics-master.zip,0,desktop:/Player,0,desktop:/Godot_v3.2.1-stable_x11.64,0,desktop:/calculator,0,desktop:/FE_Map_Editor,0,desktop:/Kvantum-master,0,desktop:/landing_page,0,desktop:/Sonic Test,0,desktop:/Godot-Sonic-Physics-master,0
+itemsOnDisabledScreens=0,3,file:///home/myles/Downloads/1997 - Fire Emblem - The Sacred Stones (U)(TrashMan).gba,file:///home/myles/Downloads/Sacred Trilogy 05-03-20 Fixed Growths With Minimug.ups,file:///home/myles/Downloads/forceblur
+screenMapping=desktop:/Godot-Sonic-Physics-master,0,desktop:/SF2Edit16bAll,0,desktop:/tsukuyomi_v01,0,desktop:/Godot_v3.2.1-stable_x11.64,0,desktop:/MS Office,0,desktop:/Roofer Emails,0,desktop:/Player,0,desktop:/Godot-Sonic-Physics-master.zip,0,desktop:/Minecraft.accdb,0,desktop:/calculator,0,desktop:/Minecraft.laccdb,0,desktop:/Sonic Test,0,desktop:/Kvantum-master,0,desktop:/landing_page,0,desktop:/Sonic Utopia Demo v1,0,desktop:/Old Firefox Data,0,desktop:/FEBuilderGBA,0

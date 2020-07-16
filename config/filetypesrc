@@ -1,3 +1,9 @@
 [EmbedSettings]
+embed-audio/midi=false
 embed-audio/mpeg=false
+embed-audio/x-wav=false
+embed-audio/x-xm=false
+embed-text/html=false
 embed-video/mpeg=false
+embed-video/quicktime=false
+embed-video/x-msvideo=false

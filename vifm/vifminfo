@@ -1,0 +1,286 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'b
+	/home/myles/bin/
+	..
+1585319881
+'h
+	/home/myles/
+	..
+1585319881
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/myles
+	..
+0
+d/home
+	myles
+1
+d/
+	bin
+0
+d/bin
+	..
+0
+d/
+	bin
+0
+d/bin
+	lou_maketable.d
+3
+d/
+	var
+19
+d/var
+	..
+0
+d/
+	tmp
+17
+d/tmp
+	..
+0
+d/
+	home
+4
+d/home
+	myles
+1
+d/home/myles
+	Documents
+2
+d/home/myles/Documents
+	ListMaker
+2
+d/home/myles/Documents/ListMaker
+	winMain.h
+9
+d/home/myles/.vim/plugged
+	vifm.vim
+2
+d/home/myles/.vim/plugged/vifm.vim
+	autoload
+1
+d/home/myles/.vim/plugged
+	nerdtree
+1
+d/home/myles/.vim
+	plugged
+3
+d/home/myles
+	Documents
+2
+d/home/myles/Documents
+	ListMaker
+2
+d/home/myles/Documents/ListMaker
+	listfile.h
+3
+d/home/myles/.vim/plugged
+	nerdtree
+1
+d/home/myles/.vim
+	..
+0
+d/home/myles
+	Documents
+2
+d/home/myles/Documents
+	ListMaker
+2
+d/home/myles/Documents/ListMaker
+	guiTest
+2
+d/home/myles/Documents
+	pdf
+7
+d/home/myles
+	Documents
+2
+d/home/myles/Documents
+	pdf
+7
+d/home/myles
+	Documents
+2
+d/home/myles/Documents
+	pdf
+7
+d/home/myles
+	Desktop
+1
+d/home/myles/Desktop
+	calculator
+4
+d/home/myles/Desktop/calculator
+	cal.css
+1
+d/home/myles/Desktop
+	calculator
+4
+d/home/myles
+	Pictures
+5
+d/home/myles/Pictures
+	Screenshot_20200405_200054.png
+12
+d/home/myles
+	Pictures
+5
+d/home/myles/Pictures
+	..
+0
+d/home/myles
+	Videos
+8
+d/home/myles/Videos
+	..
+0
+d/home/myles
+	Desktop
+1
+d/home/myles/Desktop
+	Sonic Test
+3
+d/home/myles/Desktop/Sonic Test
+	Source Code
+1
+d/home/myles/Desktop/Sonic Test/Source Code
+	Sprites
+4
+d/home/myles/Desktop/Sonic Test/Source Code/Sprites
+	spinDash.png.import
+11
+d/home/myles/Desktop/Sonic Test/Source Code
+	Green_Loop.tscn
+7
+d/home/myles/Desktop/Sonic Test
+	LICENSE.txt
+2
+d/home/myles/Desktop
+	landing_page
+5
+d/home/myles
+	Desktop
+1
+d/home/myles/Desktop
+	landing_page
+5
+d/home/myles/Desktop/landing_page
+	index.html
+4
+d/home/myles/Desktop
+	landing_page
+5
+d/home/myles
+	Videos
+8
+d/home/myles/Videos
+	Minneapolis Cop Kills George Floyd In Front Of Onlookers.mp4
+1
+d/home/myles
+	Videos
+8
+d/home/myles/Videos
+	Minneapolis Cop Kills George Floyd In Front Of Onlookers.mp4
+1
+d/home/myles
+	Videos
+8
+d/home/myles/Videos
+	Minneapolis Cop Kills George Floyd In Front Of Onlookers.mp4
+1
+d/home/myles
+	Videos
+8
+d/home/myles/Videos
+	Minneapolis Cop Kills George Floyd In Front Of Onlookers(Rightside Up).mp4
+1
+d/home/myles
+	Documents
+2
+d/home/myles/Documents
+	Sonic Heroes
+4
+d/home/myles
+	Music
+4
+d/home/myles/Music
+	Recorders
+2
+d/home/myles/Music/Recorders
+	..
+0
+d/home/myles/Music
+	Recorders
+2
+d/home/myles
+	Platformer
+6
+d/home
+	myles
+1
+d/
+	dev
+2
+d/dev
+	stderr
+30
+d
+
+# Right window history (oldest to newest):
+D/home/myles
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:nmap
+:vifming
+:vifm
+:vifmrun
+:Q
+:q
+:!nvim
+:cmus
+:!cmus
+:!moc
+:mpg123 *.mp3
+:!mpg123 *.mp3
+:!mpg123 2019_11_21_16_42_18.mp3
+:!cmus 2019_11_21_16_42_18.mp3
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

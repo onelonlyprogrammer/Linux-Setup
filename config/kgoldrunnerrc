@@ -1,0 +1,11 @@
+[KDEGame]
+ActualSpeed=10
+ControlMode=2
+SpeedLevel=7
+
+[KgTheme]
+Theme=themes/egypt.desktop
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAGUAZABpAHQAVABvAG8AbABiAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

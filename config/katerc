@@ -1,11 +1,24 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[Favorite Profiles]
+Favorites=
+
 [General]
+Close After Last=false
 Config Revision=10
 Days Meta Infos=30
+Modified Notification=false
+Quick Open List Mode=0
+Quick Open Search Mode=0
+Recent File List Entry Count=10
+Restore Window Configuration=true
 Save Meta Infos=true
 Show Full Path in Title=false
 Show Menu Bar=true
 Show Status Bar=true
 Show Tab Bar=true
+Startup Session=manual
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -96,11 +109,61 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
+[KTextEditor::Search]
+Replace History=Fisher: ,Rumph: ,Rumph:,Fisher:,Fisher,Rumph
+Search History=Fisher:,Rumph:,Rumph\\,\\,,Fisher\\,\\,,(919) 274-1941,(919) 619-0951
+
+[Kate Print Settings][Margins]
+bottom=4.1
+left=4.1
+right=4.1
+top=4.14
+
+[Konsole]
+AutoSyncronize=true
+RemoveExtension=false
+RunPrefix=
+SetEditor=false
+
 [MainWindow]
+Height 1024=953
 Height 768=695
-State=AAAA/wAAAAD9AAAAAAAAAosAAAKhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAmAAAAOhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+Width 1280=608
 Width 1366=651
+
+[Printing][HeaderFooter]
+FooterBackground=211,211,211
+FooterBackgroundEnabled=false
+FooterEnabled=true
+FooterForeground=0,0,0
+FooterFormatCenter=
+FooterFormatLeft=
+FooterFormatRight=%U
+HeaderBackground=211,211,211
+HeaderBackgroundEnabled=false
+HeaderEnabled=true
+HeaderFooterFont=Noto Sans,10,-1,0,50,0,0,0,0,0
+HeaderForeground=0,0,0
+HeaderFormatCenter=%f
+HeaderFormatLeft=%y
+HeaderFormatRight=%p
+
+[Printing][Layout]
+BackgroundColorEnabled=false
+BoxColor=invalid
+BoxEnabled=false
+BoxMargin=6
+BoxWidth=1
+ColorScheme=Printing
+
+[Printing][Text]
+Legend=false
+LineNumbers=false
+
+[UiSettings]
+ColorScheme=We10XOS
 
 [filetree]
 editShade=36,87,114

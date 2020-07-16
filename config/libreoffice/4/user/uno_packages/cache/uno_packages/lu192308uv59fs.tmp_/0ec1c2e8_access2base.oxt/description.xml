@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" 
+xmlns:d="http://openoffice.org/extensions/description/2006"
+xmlns:l="http://libreoffice.org/extensions/description/2011"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+ 
+  <version value="1.9.0" />   
+ 
+  <identifier value="Access2Base" />
+ 
+  <platform value="all,windows_x86" />
+ 
+  <!-- <dependencies>
+    <OpenOffice.org-minimal-version value="3.3" d:name="OpenOffice.org 3.3"/>
+    <l:LibreOffice-minimal-version value="3.5" d:name="LibreOffice 4.0" />
+  </dependencies> -->
+ 
+  <update-information>
+    <src xlink:href="http://www.access2base.com/_update/access2base.update.xml" />
+  </update-information>
+ 
+  <registration>
+    <simple-license accept-by="admin" suppress-on-update="true" >
+      <license-text xlink:href="description/COPYING.LESSER" lang="en-US" />
+    </simple-license>
+  </registration>
+ 
+  <!-- <publisher>
+    <name xlink:href="http://extensions.openoffice.org/testarea/desktop/publisher/publisher_de.html"
+    lang="de">My OpenOffice de</name>
+    <name xlink:href="http://extensions.openoffice.org/testarea/desktop/publisher/publisher_en.html" 
+    lang="en">My OpenOffice en</name>
+  </publisher> -->
+ 
+  <release-notes>
+    <src xlink:href="http://www.access2base.com/access2base.html#ReleaseNotes" lang="en" />
+  </release-notes>
+ 
+  <display-name>
+    <name lang="en">Access2Base</name>
+  </display-name>
+ 
+  <!-- <icon>
+    <default xlink:href="images/icon.png" />
+    <high-contrast xlink:href="images/icon_hc.png" />
+  </icon> -->
+ 
+  <extension-description>
+    <src xlink:href="description/readme.txt" lang="en" />
+    <src xlink:href="description/lisezmoi.txt" lang="fr" />
+  </extension-description>
+ 
+</description>

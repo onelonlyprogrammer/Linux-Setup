@@ -1,5 +1,13 @@
 [global_config]
+  borderless = True
+  tab_position = hidden
 [keybindings]
+[profiles]
+  [[default]]
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    show_titlebar = False
+    palette = "#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#cc0000:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
 [layouts]
   [[default]]
     [[[child1]]]
@@ -10,8 +18,3 @@
       parent = ""
       type = Window
 [plugins]
-[profiles]
-  [[default]]
-    background_type = transparent
-    cursor_color = "#aaaaaa"
-    palette = "#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#cc0000:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<oor:component-data 
+ xmlns:oor="http://openoffice.org/2001/registry"
+ xmlns:xs="http://www.w3.org/2001/XMLSchema"
+ oor:name="Addons"
+ oor:package="org.openoffice.Office">
+ 
+	<node oor:name="AddonUI">
+		<node oor:name="AddonMenu">
+			<node oor:name="Access2Base.Trace" oor:op="replace">
+					<prop oor:name="Context" oor:type="xs:string">
+						<value>com.sun.star.script.BasicIDE</value>
+					</prop>
+					<prop oor:name="URL" oor:type="xs:string">
+						<value>vnd.sun.star.script:Access2Base.Trace.TraceConsole?language=Basic&amp;location=application</value>
+					</prop>
+					<!--<prop oor:name="ImageIdentifier" oor:type="xs:string">
+						<value>%origin%/icons/bab</value>
+					</prop>-->
+					<prop oor:name="Title" oor:type="xs:string">
+						<value>Access2Base Console ...</value>
+					</prop>
+					<prop oor:name="Target" oor:type="xs:string">
+						<value>_self</value>
+					</prop>
+			</node>
+		</node>
+		<node oor:name="OfficeHelp"> 
+			<node oor:name="Access2Base.Help" oor:op="replace"> 
+					<prop oor:name="Context" oor:type="xs:string">
+						<value>com.sun.star.script.BasicIDE</value>
+					</prop>
+					<prop oor:name="URL" oor:type="xs:string">
+						<value>vnd.sun.star.script:Access2Base.Methods.OpenHelpFile?language=Basic&amp;location=application</value> 
+					</prop> 
+					<!--<prop oor:name="ImageIdentifier" oor:type="xs:string">
+						<value/>
+					</prop>--> 
+					<prop oor:name="Title" oor:type="xs:string"> 
+						<value>Access2Base Online Help</value> 
+					</prop> 
+					<prop oor:name="Target" oor:type="xs:string"> 
+						<value>_self</value>
+					</prop> 
+			</node> 
+		</node>
+	</node>
+	
+</oor:component-data>

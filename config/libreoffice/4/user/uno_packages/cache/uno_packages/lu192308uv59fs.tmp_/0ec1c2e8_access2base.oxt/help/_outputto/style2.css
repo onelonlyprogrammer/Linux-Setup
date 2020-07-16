@@ -1,0 +1,20 @@
+body {
+    font-size: 100%;
+}
+.dbdatatable {
+  padding: 0;
+  margin: 0;
+  border-collapse: collapse;
+  border: 1px solid #333;
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  color: #000;
+  background: #bcd0e4;
+}
+.dbdatatable caption {
+  caption-side: bottom;
+  font-size: 0.9em;
+  font-style: italic;
+  text-align: right;
+  padding: 0.5em 0;
+}

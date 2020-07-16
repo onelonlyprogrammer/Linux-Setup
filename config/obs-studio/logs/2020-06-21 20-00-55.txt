@@ -1,0 +1,601 @@
+08:00:55 PM.252: CPU Name: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz
+08:00:55 PM.252: CPU Speed: 2109.290MHz
+08:00:55 PM.252: Physical Cores: 4, Logical Cores: 8
+08:00:55 PM.252: Physical Memory: 7838MB Total, 1273MB Free
+08:00:55 PM.252: Kernel Version: Linux 5.7.2-arch1-1
+08:00:55 PM.252: Distribution: "Arch Linux" Unknown
+08:00:55 PM.253: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.8
+08:00:55 PM.254: Portable mode: false
+08:00:55 PM.315: OBS 25.0.8-1 (linux)
+08:00:55 PM.315: ---------------------------------
+08:00:55 PM.315: ---------------------------------
+08:00:55 PM.315: audio settings reset:
+08:00:55 PM.315: 	samples per sec: 44100
+08:00:55 PM.315: 	speakers:        2
+08:00:55 PM.322: ---------------------------------
+08:00:55 PM.322: Initializing OpenGL...
+08:00:55 PM.351: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 4600 (HSW GT2)
+08:00:55 PM.351: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 20.1.1, shading language 4.50
+08:00:55 PM.365: ---------------------------------
+08:00:55 PM.365: video settings reset:
+08:00:55 PM.365: 	base resolution:   1366x768
+08:00:55 PM.365: 	output resolution: 908x512
+08:00:55 PM.365: 	downscale filter:  Bicubic
+08:00:55 PM.365: 	fps:               30/1
+08:00:55 PM.365: 	format:            NV12
+08:00:55 PM.365: 	YUV mode:          601/Partial
+08:00:55 PM.365: NV12 texture support not available
+08:00:55 PM.365: Audio monitoring device:
+08:00:55 PM.365: 	name: Default
+08:00:55 PM.365: 	id: default
+08:00:55 PM.365: ---------------------------------
+08:00:55 PM.366: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+08:00:55 PM.448: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+08:00:55 PM.448: No blackmagic support
+08:00:55 PM.460: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+08:00:55 PM.460: 
+08:00:55 PM.460: FFMPEG VAAPI supported
+08:00:55 PM.468: VLC found, VLC video source enabled
+08:00:55 PM.469: ---------------------------------
+08:00:55 PM.469:   Loaded Modules:
+08:00:55 PM.469:     vlc-video.so
+08:00:55 PM.469:     text-freetype2.so
+08:00:55 PM.469:     rtmp-services.so
+08:00:55 PM.469:     obs-x264.so
+08:00:55 PM.469:     obs-transitions.so
+08:00:55 PM.469:     obs-outputs.so
+08:00:55 PM.469:     obs-libfdk.so
+08:00:55 PM.469:     obs-filters.so
+08:00:55 PM.469:     obs-ffmpeg.so
+08:00:55 PM.469:     linux-v4l2.so
+08:00:55 PM.469:     linux-pulseaudio.so
+08:00:55 PM.469:     linux-jack.so
+08:00:55 PM.469:     linux-decklink.so
+08:00:55 PM.469:     linux-capture.so
+08:00:55 PM.469:     linux-alsa.so
+08:00:55 PM.469:     image-source.so
+08:00:55 PM.469:     frontend-tools.so
+08:00:55 PM.469:     decklink-ouput-ui.so
+08:00:55 PM.469: ---------------------------------
+08:00:55 PM.469: ==== Startup complete ===============================================
+08:00:55 PM.469: Service '' not found
+08:00:55 PM.470: All scene data cleared
+08:00:55 PM.470: ------------------------------------------------
+08:00:55 PM.473: pulse-input: Server name: 'pulseaudio 13.0'
+08:00:55 PM.473: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+08:00:55 PM.473: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+08:00:55 PM.473: [Loaded global audio device]: 'Desktop Audio'
+08:00:55 PM.475: pulse-input: Server name: 'pulseaudio 13.0'
+08:00:55 PM.475: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+08:00:55 PM.475: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+08:00:55 PM.475: [Loaded global audio device]: 'Mic/Aux'
+08:00:55 PM.476: xshm-input: Geometry 1366x768 @ 1280,128
+08:00:55 PM.476: Switched to scene 'Scene'
+08:00:55 PM.476: ------------------------------------------------
+08:00:55 PM.476: Loaded scenes:
+08:00:55 PM.476: - scene 'Scene':
+08:00:55 PM.476:     - source: 'Screen Capture (XSHM)' (xshm_input)
+08:00:55 PM.476: ------------------------------------------------
+08:00:56 PM.031: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mic/Aux)
+08:00:56 PM.031: 
+08:01:40 PM.298: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'Scene'
+08:01:56 PM.936: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+08:01:57 PM.046: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:01:57 PM.046: 	title: Desktop — Plasma
+08:01:57 PM.046: 	class: plasmashell
+08:01:57 PM.046: 	Bit depth: 32
+08:01:57 PM.046: 	Found proper GLXFBConfig (in 24): yes
+08:01:57 PM.046: 
+08:02:05 PM.203: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:05 PM.203: 	title: System Monitor
+08:02:05 PM.203: 	class: ksysguard
+08:02:05 PM.203: 	Bit depth: 32
+08:02:05 PM.203: 	Found proper GLXFBConfig (in 24): yes
+08:02:05 PM.203: 
+08:02:11 PM.369: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:11 PM.369: 	title: System Monitor
+08:02:11 PM.369: 	class: ksysguard
+08:02:11 PM.369: 	Bit depth: 32
+08:02:11 PM.369: 	Found proper GLXFBConfig (in 24): yes
+08:02:11 PM.369: 
+08:02:12 PM.270: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:12 PM.270: 	title: System Monitor
+08:02:12 PM.270: 	class: ksysguard
+08:02:12 PM.270: 	Bit depth: 32
+08:02:12 PM.270: 	Found proper GLXFBConfig (in 24): yes
+08:02:12 PM.270: 
+08:02:12 PM.703: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:12 PM.703: 	title: System Monitor
+08:02:12 PM.703: 	class: ksysguard
+08:02:12 PM.703: 	Bit depth: 32
+08:02:12 PM.703: 	Found proper GLXFBConfig (in 24): yes
+08:02:12 PM.703: 
+08:02:13 PM.370: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:13 PM.370: 	title: System Monitor
+08:02:13 PM.370: 	class: ksysguard
+08:02:13 PM.370: 	Bit depth: 32
+08:02:13 PM.370: 	Found proper GLXFBConfig (in 24): yes
+08:02:13 PM.370: 
+08:02:14 PM.304: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:14 PM.304: 	title: System Monitor
+08:02:14 PM.304: 	class: ksysguard
+08:02:14 PM.304: 	Bit depth: 32
+08:02:14 PM.304: 	Found proper GLXFBConfig (in 24): yes
+08:02:14 PM.304: 
+08:02:26 PM.333: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.333: 	title: System Monitor
+08:02:26 PM.333: 	class: ksysguard
+08:02:26 PM.333: 	Bit depth: 32
+08:02:26 PM.333: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.333: 
+08:02:26 PM.366: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.366: 	title: System Monitor
+08:02:26 PM.366: 	class: ksysguard
+08:02:26 PM.366: 	Bit depth: 32
+08:02:26 PM.366: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.366: 
+08:02:26 PM.400: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.400: 	title: System Monitor
+08:02:26 PM.400: 	class: ksysguard
+08:02:26 PM.400: 	Bit depth: 32
+08:02:26 PM.400: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.400: 
+08:02:26 PM.433: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.433: 	title: System Monitor
+08:02:26 PM.433: 	class: ksysguard
+08:02:26 PM.433: 	Bit depth: 32
+08:02:26 PM.433: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.433: 
+08:02:26 PM.469: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.469: 	title: System Monitor
+08:02:26 PM.469: 	class: ksysguard
+08:02:26 PM.469: 	Bit depth: 32
+08:02:26 PM.469: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.469: 
+08:02:26 PM.500: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.500: 	title: System Monitor
+08:02:26 PM.500: 	class: ksysguard
+08:02:26 PM.500: 	Bit depth: 32
+08:02:26 PM.500: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.500: 
+08:02:26 PM.534: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.534: 	title: System Monitor
+08:02:26 PM.534: 	class: ksysguard
+08:02:26 PM.534: 	Bit depth: 32
+08:02:26 PM.534: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.534: 
+08:02:26 PM.567: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.567: 	title: System Monitor
+08:02:26 PM.567: 	class: ksysguard
+08:02:26 PM.567: 	Bit depth: 32
+08:02:26 PM.567: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.567: 
+08:02:26 PM.604: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.604: 	title: System Monitor
+08:02:26 PM.604: 	class: ksysguard
+08:02:26 PM.604: 	Bit depth: 32
+08:02:26 PM.604: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.604: 
+08:02:26 PM.638: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.638: 	title: System Monitor
+08:02:26 PM.638: 	class: ksysguard
+08:02:26 PM.638: 	Bit depth: 32
+08:02:26 PM.638: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.638: 
+08:02:26 PM.667: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.667: 	title: System Monitor
+08:02:26 PM.667: 	class: ksysguard
+08:02:26 PM.667: 	Bit depth: 32
+08:02:26 PM.667: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.667: 
+08:02:26 PM.700: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.700: 	title: System Monitor
+08:02:26 PM.700: 	class: ksysguard
+08:02:26 PM.700: 	Bit depth: 32
+08:02:26 PM.700: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.700: 
+08:02:26 PM.736: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.736: 	title: System Monitor
+08:02:26 PM.736: 	class: ksysguard
+08:02:26 PM.736: 	Bit depth: 32
+08:02:26 PM.736: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.736: 
+08:02:26 PM.769: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.769: 	title: System Monitor
+08:02:26 PM.769: 	class: ksysguard
+08:02:26 PM.769: 	Bit depth: 32
+08:02:26 PM.769: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.769: 
+08:02:26 PM.800: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.800: 	title: System Monitor
+08:02:26 PM.800: 	class: ksysguard
+08:02:26 PM.800: 	Bit depth: 32
+08:02:26 PM.800: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.800: 
+08:02:26 PM.834: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.834: 	title: System Monitor
+08:02:26 PM.834: 	class: ksysguard
+08:02:26 PM.834: 	Bit depth: 32
+08:02:26 PM.834: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.834: 
+08:02:26 PM.869: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:26 PM.869: 	title: System Monitor
+08:02:26 PM.869: 	class: ksysguard
+08:02:26 PM.869: 	Bit depth: 32
+08:02:26 PM.869: 	Found proper GLXFBConfig (in 24): yes
+08:02:26 PM.869: 
+08:02:27 PM.235: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:27 PM.235: 	title: System Monitor
+08:02:27 PM.235: 	class: ksysguard
+08:02:27 PM.235: 	Bit depth: 32
+08:02:27 PM.235: 	Found proper GLXFBConfig (in 24): yes
+08:02:27 PM.235: 
+08:02:27 PM.267: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:27 PM.267: 	title: System Monitor
+08:02:27 PM.267: 	class: ksysguard
+08:02:27 PM.267: 	Bit depth: 32
+08:02:27 PM.267: 	Found proper GLXFBConfig (in 24): yes
+08:02:27 PM.267: 
+08:02:27 PM.300: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:27 PM.300: 	title: System Monitor
+08:02:27 PM.300: 	class: ksysguard
+08:02:27 PM.300: 	Bit depth: 32
+08:02:27 PM.300: 	Found proper GLXFBConfig (in 24): yes
+08:02:27 PM.300: 
+08:02:27 PM.333: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:27 PM.333: 	title: System Monitor
+08:02:27 PM.333: 	class: ksysguard
+08:02:27 PM.333: 	Bit depth: 32
+08:02:27 PM.333: 	Found proper GLXFBConfig (in 24): yes
+08:02:27 PM.333: 
+08:02:27 PM.368: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:27 PM.368: 	title: System Monitor
+08:02:27 PM.368: 	class: ksysguard
+08:02:27 PM.368: 	Bit depth: 32
+08:02:27 PM.368: 	Found proper GLXFBConfig (in 24): yes
+08:02:27 PM.368: 
+08:02:27 PM.400: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:27 PM.400: 	title: System Monitor
+08:02:27 PM.400: 	class: ksysguard
+08:02:27 PM.400: 	Bit depth: 32
+08:02:27 PM.400: 	Found proper GLXFBConfig (in 24): yes
+08:02:27 PM.400: 
+08:02:34 PM.100: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:02:34 PM.100: 	title: System Monitor
+08:02:34 PM.100: 	class: ksysguard
+08:02:34 PM.100: 	Bit depth: 32
+08:02:34 PM.100: 	Found proper GLXFBConfig (in 24): yes
+08:02:34 PM.100: 
+08:03:11 PM.005: Last log entry repeated for 5 more lines
+08:03:11 PM.006: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+08:03:18 PM.233: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+08:03:21 PM.961: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:03:21 PM.961: 	title: (143) Verizon Messages - Firefox Developer Edition
+08:03:21 PM.961: 	class: Navigator
+08:03:21 PM.961: 	Bit depth: 24
+08:03:21 PM.961: 	Found proper GLXFBConfig (in 24): yes
+08:03:21 PM.961: 
+08:04:06 PM.465: ---------------------------------
+08:04:06 PM.465: video settings reset:
+08:04:06 PM.465: 	base resolution:   1920x1080
+08:04:06 PM.465: 	output resolution: 1920x1080
+08:04:06 PM.465: 	downscale filter:  Bicubic
+08:04:06 PM.465: 	fps:               30/1
+08:04:06 PM.465: 	format:            NV12
+08:04:06 PM.465: 	YUV mode:          601/Partial
+08:04:06 PM.466: NV12 texture support not available
+08:04:06 PM.470: Settings changed (outputs, video)
+08:04:06 PM.470: ------------------------------------------------
+08:05:51 PM.298: ---------------------------------
+08:05:51 PM.298: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+08:05:51 PM.298: [x264 encoder: 'simple_h264_recording'] profile: high
+08:05:51 PM.298: [x264 encoder: 'simple_h264_recording'] settings:
+08:05:51 PM.298: 	rate_control: CRF
+08:05:51 PM.298: 	bitrate:      0
+08:05:51 PM.298: 	buffer size:  0
+08:05:51 PM.298: 	crf:          23
+08:05:51 PM.298: 	fps_num:      30
+08:05:51 PM.298: 	fps_den:      1
+08:05:51 PM.298: 	width:        1920
+08:05:51 PM.298: 	height:       1080
+08:05:51 PM.298: 	keyint:       250
+08:05:51 PM.298: 
+08:05:51 PM.336: libfdk_aac encoder created
+08:05:51 PM.337: libfdk_aac bitrate: 192, channels: 2
+08:05:51 PM.344: ==== Recording Start ===============================================
+08:05:51 PM.344: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/myles/2020-06-21 20-05-51.mp4'...
+08:05:58 PM.941: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/myles/2020-06-21 20-05-51.mp4' stopped
+08:05:58 PM.941: Output 'simple_file_output': stopping
+08:05:58 PM.941: Output 'simple_file_output': Total frames output: 201
+08:05:58 PM.941: Output 'simple_file_output': Total drawn frames: 228
+08:05:58 PM.941: ==== Recording Stop ================================================
+08:05:58 PM.956: libfdk_aac encoder destroyed
+08:06:56 PM.869: ---------------------------------
+08:06:56 PM.869: video settings reset:
+08:06:56 PM.869: 	base resolution:   1920x1080
+08:06:56 PM.869: 	output resolution: 1920x1080
+08:06:56 PM.869: 	downscale filter:  Bicubic
+08:06:56 PM.869: 	fps:               60/1
+08:06:56 PM.869: 	format:            NV12
+08:06:56 PM.869: 	YUV mode:          601/Partial
+08:06:56 PM.869: NV12 texture support not available
+08:06:56 PM.870: Settings changed (video)
+08:06:56 PM.870: ------------------------------------------------
+08:07:00 PM.099: ---------------------------------
+08:07:00 PM.099: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+08:07:00 PM.099: [x264 encoder: 'simple_h264_recording'] profile: high
+08:07:00 PM.099: [x264 encoder: 'simple_h264_recording'] settings:
+08:07:00 PM.099: 	rate_control: CRF
+08:07:00 PM.099: 	bitrate:      0
+08:07:00 PM.099: 	buffer size:  0
+08:07:00 PM.099: 	crf:          23
+08:07:00 PM.099: 	fps_num:      60
+08:07:00 PM.099: 	fps_den:      1
+08:07:00 PM.099: 	width:        1920
+08:07:00 PM.099: 	height:       1080
+08:07:00 PM.099: 	keyint:       250
+08:07:00 PM.099: 
+08:07:00 PM.104: libfdk_aac encoder created
+08:07:00 PM.104: libfdk_aac bitrate: 192, channels: 2
+08:07:00 PM.108: ==== Recording Start ===============================================
+08:07:00 PM.108: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/myles/2020-06-21 20-07-00.mp4'...
+08:07:06 PM.460: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/myles/2020-06-21 20-07-00.mp4' stopped
+08:07:06 PM.461: Output 'simple_file_output': stopping
+08:07:06 PM.461: Output 'simple_file_output': Total frames output: 351
+08:07:06 PM.461: Output 'simple_file_output': Total drawn frames: 362 (381 attempted)
+08:07:06 PM.461: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 19 (5.0%)
+08:07:06 PM.461: Video stopped, number of skipped frames due to encoding lag: 11/380 (2.9%)
+08:07:06 PM.461: ==== Recording Stop ================================================
+08:07:06 PM.482: libfdk_aac encoder destroyed
+08:08:12 PM.815: ---------------------------------
+08:08:12 PM.815: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+08:08:12 PM.815: [x264 encoder: 'simple_h264_recording'] profile: high
+08:08:12 PM.815: [x264 encoder: 'simple_h264_recording'] settings:
+08:08:12 PM.815: 	rate_control: CRF
+08:08:12 PM.815: 	bitrate:      0
+08:08:12 PM.815: 	buffer size:  0
+08:08:12 PM.815: 	crf:          23
+08:08:12 PM.815: 	fps_num:      60
+08:08:12 PM.815: 	fps_den:      1
+08:08:12 PM.815: 	width:        1920
+08:08:12 PM.815: 	height:       1080
+08:08:12 PM.815: 	keyint:       250
+08:08:12 PM.815: 
+08:08:12 PM.819: libfdk_aac encoder created
+08:08:12 PM.819: libfdk_aac bitrate: 192, channels: 2
+08:08:12 PM.822: ==== Recording Start ===============================================
+08:08:12 PM.822: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/myles/2020-06-21 20-08-12.mp4'...
+08:08:51 PM.634: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/myles/2020-06-21 20-08-12.mp4' stopped
+08:08:51 PM.634: Output 'simple_file_output': stopping
+08:08:51 PM.634: Output 'simple_file_output': Total frames output: 2299
+08:08:51 PM.634: Output 'simple_file_output': Total drawn frames: 2003 (2328 attempted)
+08:08:51 PM.634: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 325 (14.0%)
+08:08:51 PM.634: ==== Recording Stop ================================================
+08:08:51 PM.655: libfdk_aac encoder destroyed
+08:10:57 PM.731: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:10:57 PM.731: 	title: javascript testing site at DuckDuckGo - Firefox Developer Edition
+08:10:57 PM.731: 	class: Navigator
+08:10:57 PM.731: 	Bit depth: 24
+08:10:57 PM.731: 	Found proper GLXFBConfig (in 24): yes
+08:10:57 PM.731: 
+08:10:58 PM.788: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:10:58 PM.788: 	title: javascript testing site at DuckDuckGo - Firefox Developer Edition
+08:10:58 PM.788: 	class: Navigator
+08:10:58 PM.788: 	Bit depth: 24
+08:10:58 PM.788: 	Found proper GLXFBConfig (in 24): yes
+08:10:58 PM.788: 
+08:11:02 PM.448: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:11:02 PM.448: 	title: javascript testing site at DuckDuckGo - Firefox Developer Edition
+08:11:02 PM.448: 	class: Navigator
+08:11:02 PM.448: 	Bit depth: 24
+08:11:02 PM.448: 	Found proper GLXFBConfig (in 24): yes
+08:11:02 PM.448: 
+08:11:26 PM.833: User added source 'Window Capture (Xcomposite) 2' (xcomposite_input) to scene 'Scene'
+08:11:33 PM.281: X Error: BadWindow (invalid Window parameter), Major opcode: 20, Minor opcode: 0, Serial: 103298
+08:11:33 PM.284: X Error: BadWindow (invalid Window parameter), Major opcode: 20, Minor opcode: 0, Serial: 103299
+08:11:33 PM.285: X Error: BadWindow (invalid Window parameter), Major opcode: 20, Minor opcode: 0, Serial: 103300
+08:11:33 PM.285: X Error: BadWindow (invalid Window parameter), Major opcode: 20, Minor opcode: 0, Serial: 103301
+08:11:33 PM.312: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:11:33 PM.312: 	title: Desktop — Plasma
+08:11:33 PM.312: 	class: plasmashell
+08:11:33 PM.312: 	Bit depth: 32
+08:11:33 PM.312: 	Found proper GLXFBConfig (in 24): yes
+08:11:33 PM.312: 
+08:11:36 PM.909: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:11:36 PM.909: 	title: Desktop — Plasma
+08:11:36 PM.909: 	class: plasmashell
+08:11:36 PM.909: 	Bit depth: 32
+08:11:36 PM.909: 	Found proper GLXFBConfig (in 24): yes
+08:11:36 PM.909: 
+08:11:37 PM.607: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:11:37 PM.607: 	title: Desktop — Plasma
+08:11:37 PM.607: 	class: plasmashell
+08:11:37 PM.607: 	Bit depth: 32
+08:11:37 PM.607: 	Found proper GLXFBConfig (in 24): yes
+08:11:37 PM.607: 
+08:11:38 PM.092: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:11:38 PM.092: 	title: Desktop — Plasma
+08:11:38 PM.092: 	class: plasmashell
+08:11:38 PM.092: 	Bit depth: 32
+08:11:38 PM.092: 	Found proper GLXFBConfig (in 24): yes
+08:11:38 PM.092: 
+08:11:38 PM.508: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:11:38 PM.508: 	title: Desktop — Plasma
+08:11:38 PM.508: 	class: plasmashell
+08:11:38 PM.508: 	Bit depth: 32
+08:11:38 PM.508: 	Found proper GLXFBConfig (in 24): yes
+08:11:38 PM.508: 
+08:11:40 PM.173: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:11:40 PM.173: 	title: Desktop — Plasma
+08:11:40 PM.173: 	class: plasmashell
+08:11:40 PM.173: 	Bit depth: 32
+08:11:40 PM.173: 	Found proper GLXFBConfig (in 24): yes
+08:11:40 PM.173: 
+08:11:40 PM.774: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:11:40 PM.774: 	title: Desktop — Plasma
+08:11:40 PM.774: 	class: plasmashell
+08:11:40 PM.774: 	Bit depth: 32
+08:11:40 PM.774: 	Found proper GLXFBConfig (in 24): yes
+08:11:40 PM.774: 
+08:11:41 PM.943: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:11:41 PM.943: 	title: Desktop — Plasma
+08:11:41 PM.943: 	class: plasmashell
+08:11:41 PM.943: 	Bit depth: 32
+08:11:41 PM.943: 	Found proper GLXFBConfig (in 24): yes
+08:11:41 PM.943: 
+08:12:16 PM.740: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:12:16 PM.740: 	title: Desktop — Plasma
+08:12:16 PM.740: 	class: plasmashell
+08:12:16 PM.740: 	Bit depth: 32
+08:12:16 PM.740: 	Found proper GLXFBConfig (in 24): yes
+08:12:16 PM.740: 
+08:12:17 PM.926: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:12:17 PM.926: 	title: Desktop — Plasma
+08:12:17 PM.926: 	class: plasmashell
+08:12:17 PM.926: 	Bit depth: 32
+08:12:17 PM.926: 	Found proper GLXFBConfig (in 24): yes
+08:12:17 PM.926: 
+08:12:27 PM.688: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:12:27 PM.688: 	title: Desktop — Plasma
+08:12:27 PM.688: 	class: plasmashell
+08:12:27 PM.688: 	Bit depth: 32
+08:12:27 PM.688: 	Found proper GLXFBConfig (in 24): yes
+08:12:27 PM.688: 
+08:12:39 PM.040: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:12:39 PM.040: 	title: System Monitor
+08:12:39 PM.040: 	class: ksysguard
+08:12:39 PM.040: 	Bit depth: 32
+08:12:39 PM.040: 	Found proper GLXFBConfig (in 24): yes
+08:12:39 PM.040: 
+08:12:49 PM.824: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:12:49 PM.824: 	title: System Monitor
+08:12:49 PM.824: 	class: ksysguard
+08:12:49 PM.824: 	Bit depth: 32
+08:12:49 PM.824: 	Found proper GLXFBConfig (in 24): yes
+08:12:49 PM.824: 
+08:13:07 PM.462: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:13:07 PM.462: 	title: javascript testing site at DuckDuckGo - Firefox Developer Edition
+08:13:07 PM.462: 	class: Navigator
+08:13:07 PM.462: 	Bit depth: 24
+08:13:07 PM.462: 	Found proper GLXFBConfig (in 24): yes
+08:13:07 PM.462: 
+08:14:55 PM.240: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:14:55 PM.240: 	title: javascript testing site at DuckDuckGo - Firefox Developer Edition
+08:14:55 PM.240: 	class: Navigator
+08:14:55 PM.240: 	Bit depth: 24
+08:14:55 PM.240: 	Found proper GLXFBConfig (in 24): yes
+08:14:55 PM.240: 
+08:14:55 PM.707: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:14:55 PM.707: 	title: javascript testing site at DuckDuckGo - Firefox Developer Edition
+08:14:55 PM.707: 	class: Navigator
+08:14:55 PM.707: 	Bit depth: 24
+08:14:55 PM.707: 	Found proper GLXFBConfig (in 24): yes
+08:14:55 PM.707: 
+08:15:04 PM.376: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:15:04 PM.376: 	title: Organic & Fair Trade Cocoa – Equal Exchange - Firefox Developer Edition
+08:15:04 PM.376: 	class: Navigator
+08:15:04 PM.376: 	Bit depth: 24
+08:15:04 PM.376: 	Found proper GLXFBConfig (in 24): yes
+08:15:04 PM.376: 
+08:15:04 PM.391: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+08:15:04 PM.391: 	title: Organic & Fair Trade Cocoa – Equal Exchange - Firefox Developer Edition
+08:15:04 PM.391: 	class: Navigator
+08:15:04 PM.391: 	Bit depth: 24
+08:15:04 PM.391: 	Found proper GLXFBConfig (in 24): yes
+08:15:04 PM.391: 
+08:15:08 PM.792: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:15:08 PM.792: 	title: System Monitor
+08:15:08 PM.792: 	class: ksysguard
+08:15:08 PM.792: 	Bit depth: 32
+08:15:08 PM.792: 	Found proper GLXFBConfig (in 24): yes
+08:15:08 PM.792: 
+08:15:11 PM.272: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:15:11 PM.272: 	title: System Monitor
+08:15:11 PM.272: 	class: ksysguard
+08:15:11 PM.272: 	Bit depth: 32
+08:15:11 PM.272: 	Found proper GLXFBConfig (in 24): yes
+08:15:11 PM.272: 
+08:15:19 PM.240: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+08:15:19 PM.240: 	title: System Monitor
+08:15:19 PM.240: 	class: ksysguard
+08:15:19 PM.240: 	Bit depth: 32
+08:15:19 PM.240: 	Found proper GLXFBConfig (in 24): yes
+08:15:19 PM.240: 
+08:17:45 PM.124: Settings changed (hotkeys)
+08:17:45 PM.124: ------------------------------------------------
+08:17:56 PM.191: Starting stream due to hotkey
+08:17:56 PM.288: ---------------------------------
+08:17:56 PM.289: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+08:17:56 PM.289: [x264 encoder: 'simple_h264_stream'] settings:
+08:17:56 PM.289: 	rate_control: CBR
+08:17:56 PM.289: 	bitrate:      2500
+08:17:56 PM.289: 	buffer size:  2500
+08:17:56 PM.289: 	crf:          0
+08:17:56 PM.289: 	fps_num:      60
+08:17:56 PM.289: 	fps_den:      1
+08:17:56 PM.289: 	width:        1920
+08:17:56 PM.289: 	height:       1080
+08:17:56 PM.289: 	keyint:       250
+08:17:56 PM.289: 
+08:17:56 PM.292: libfdk_aac encoder created
+08:17:56 PM.292: libfdk_aac bitrate: 160, channels: 2
+08:17:56 PM.293: [rtmp stream: 'simple_stream'] URL is empty
+08:17:56 PM.293: [rtmp stream: 'simple_stream'] Connection to (null) failed: -1
+08:17:56 PM.296: ==== Streaming Stop ================================================
+08:18:28 PM.467: Settings changed (hotkeys)
+08:18:28 PM.467: ------------------------------------------------
+08:18:31 PM.818: Starting stream due to hotkey
+08:18:31 PM.820: [rtmp stream: 'simple_stream'] URL is empty
+08:18:31 PM.820: [rtmp stream: 'simple_stream'] Connection to (null) failed: -1
+08:18:31 PM.824: ==== Streaming Stop ================================================
+08:18:52 PM.204: Starting stream due to hotkey
+08:18:52 PM.209: [rtmp stream: 'simple_stream'] URL is empty
+08:18:52 PM.209: [rtmp stream: 'simple_stream'] Connection to (null) failed: -1
+08:18:52 PM.212: ==== Streaming Stop ================================================
+08:19:42 PM.629: Settings changed (hotkeys)
+08:19:42 PM.629: ------------------------------------------------
+08:19:46 PM.550: Starting recording due to hotkey
+08:19:46 PM.554: ---------------------------------
+08:19:46 PM.554: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+08:19:46 PM.554: [x264 encoder: 'simple_h264_recording'] profile: high
+08:19:46 PM.554: [x264 encoder: 'simple_h264_recording'] settings:
+08:19:46 PM.554: 	rate_control: CRF
+08:19:46 PM.554: 	bitrate:      0
+08:19:46 PM.554: 	buffer size:  0
+08:19:46 PM.554: 	crf:          23
+08:19:46 PM.554: 	fps_num:      60
+08:19:46 PM.554: 	fps_den:      1
+08:19:46 PM.554: 	width:        1920
+08:19:46 PM.554: 	height:       1080
+08:19:46 PM.554: 	keyint:       250
+08:19:46 PM.554: 
+08:19:46 PM.560: libfdk_aac encoder created
+08:19:46 PM.560: libfdk_aac bitrate: 192, channels: 2
+08:19:46 PM.563: ==== Recording Start ===============================================
+08:19:46 PM.563: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/myles/2020-06-21 20-19-46.mp4'...
+08:19:47 PM.409: Stopping recording due to hotkey
+08:19:47 PM.920: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/myles/2020-06-21 20-19-46.mp4' stopped
+08:19:47 PM.920: Output 'simple_file_output': stopping
+08:19:47 PM.920: Output 'simple_file_output': Total frames output: 52
+08:19:47 PM.920: Output 'simple_file_output': Total drawn frames: 78 (82 attempted)
+08:19:47 PM.920: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 4 (4.9%)
+08:19:47 PM.920: ==== Recording Stop ================================================
+08:19:47 PM.922: Video stopped, number of skipped frames due to encoding lag: 1/80 (1.2%)
+08:19:47 PM.941: libfdk_aac encoder destroyed
+08:19:56 PM.671: ==== Shutting down ==================================================
+08:19:56 PM.677: Switched to scene '(null)'
+08:19:56 PM.680: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+08:19:56 PM.680: pulse-input: Got 179296 packets with 50239291 frames
+08:19:56 PM.680: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+08:19:56 PM.680: pulse-input: Got 113850 packets with 50326360 frames
+08:19:56 PM.681: All scene data cleared
+08:19:56 PM.681: ------------------------------------------------
+08:19:56 PM.716: Failed to fetch parent window geometry!
+08:19:56 PM.716: Failed to fetch parent window geometry!
+08:19:56 PM.716: Failed to fetch parent window geometry!
+08:19:56 PM.717: Failed to fetch parent window geometry!
+08:19:56 PM.717: Failed to fetch parent window geometry!
+08:19:56 PM.717: Failed to fetch parent window geometry!
+08:19:56 PM.718: Failed to fetch parent window geometry!
+08:19:56 PM.719: Failed to fetch parent window geometry!
+08:19:56 PM.722: libfdk_aac encoder destroyed

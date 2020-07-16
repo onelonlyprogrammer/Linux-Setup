@@ -1,6 +1,5 @@
 [General]
-theme=Akava-Kv
+theme=We10XOS
 
 [Applications]
-Akava-Kv=Konsole
-Default=Konsole
+We10XOS=Dolphin

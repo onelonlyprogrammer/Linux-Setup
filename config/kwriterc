@@ -1,10 +1,14 @@
+[FileDialogSize]
+Height 768=601
+Width 1366=882
+
 [General Options]
 ShowMenuBar=true
 ShowPath=false
 ShowStatusBar=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/ip,file:$HOME/ip
+Recent Files[$e]=file:$HOME/ip,file:$HOME/Documents/Sentenced.txt,file:$HOME/Documents/Judgement.txt
 detailViewIconSize=0
 
 [KTextEditor Document]
@@ -96,6 +100,10 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
+[KTextEditor::Search]
+Replace History=wav,MP3,MP#,mp3
+Search History=mp3,WAVE,wav
+
 [Kate Print Settings][Margins]
 bottom=4.1
 left=4.1
@@ -103,10 +111,12 @@ right=4.1
 top=4.14
 
 [MainWindow]
+Height 1024=951
 Height 768=695
-State=AAAA/wAAAAD9AAAAAAAAAosAAAJ8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABSIAAAJ8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=651
+Width 1280=1228
+Width 1366=1314
 
 [Printing][HeaderFooter]
 FooterBackground=211,211,211
@@ -139,10 +149,22 @@ LineNumbers=false
 
 [Recent Files]
 File1[$e]=$HOME/ip
+File10[$e]=$HOME/Jordon list
 File2[$e]=$HOME/music
-File3[$e]=$HOME/Downloads/Sonic_1_CD/Sonic 1 for SegaCD.cue
-File4[$e]=$HOME/the thing
+File3[$e]=$HOME/the thing
+File4[$e]=$HOME/MMZ cheats
+File5[$e]=$HOME/The_Kids.txt
+File6[$e]=$HOME/Documents/Sonic_CD++/Sonic CD++.cue
+File7[$e]=$HOME/Documents/Sonic_CD++(WAVE)/Sonic CD++.cue
+File8[$e]=$HOME/All Hail the King
+File9[$e]=$HOME/Desktop/Minecraft.accdb
 Name1[$e]=ip
+Name10[$e]=Jordon list
 Name2[$e]=music
-Name3[$e]=Sonic 1 for SegaCD.cue
-Name4[$e]=the thing
+Name3[$e]=the thing
+Name4[$e]=MMZ cheats
+Name5[$e]=The_Kids.txt
+Name6[$e]=Sonic CD++.cue
+Name7[$e]=Sonic CD++.cue
+Name8[$e]=All Hail the King
+Name9[$e]=Minecraft.accdb

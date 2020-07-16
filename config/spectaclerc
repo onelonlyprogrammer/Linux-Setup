@@ -1,28 +1,35 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
 [General]
+alwaysRememberRegion=false
 autoSaveImage=false
 copyImageToClipboard=false
-copySaveLocation=false
-default-save-image-format=png
-default-save-location[$e]=file:$HOME/Pictures/
-lastSaveAsFile=file:///home/myles/Pictures/Screenshot_20200405_200209.png
-lastSaveFile=file:///home/myles/Pictures/Screenshot_20200405_200209.png
-save-filename-format=Screenshot_%Y%M%D_%H%m%S
-
-[GuiConfig]
-alwaysRememberRegion=false
-captureDelay=0
-compressionQuality=90
-cropRegion=0,0,0,0
-lastUsedSaveMode=0
-onClickChecked=false
 printKeyActionRunning=0
 rememberLastRectangularRegion=true
 showMagnifier=false
 useLightMaskColour=false
 useReleaseToCapture=false
-window-position=52,50
+
+[GuiConfig]
+captureDelay=0
+captureMode=1
+cropRegion=0,0,0,0
+includePointer=false
+onClickChecked=false
+transientOnly=true
+window-position=1703,254
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Pictures/Screenshot_20200331_115810.png,file:$HOME/Pictures/Screenshot_20200331_115810.png
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_20200331_115810.png,file:$HOME/Pictures/Screenshot_20200707_161855.png,file:$HOME/Pictures/Screenshot_20200707_154240.png,file:$HOME/Pictures/Screenshot_20200707_154217.png,file:$HOME/Pictures/LowRAM.png,file:$HOME/Pictures/LowRAM.bmp
 Recent URLs[$e]=file:$HOME/Pictures/
 detailViewIconSize=0
+
+[Save]
+compressionQuality=90
+copySaveLocation=false
+defaultSaveLocation=file:/home/myles/Pictures/
+lastSaveAsLocation=file:///home/myles/Pictures/Screenshot_20200710_232256.png
+lastSaveLocation=file:///home/myles/Pictures/Screenshot_20200710_232256.png
+lastUsedSaveMode=0
+saveFilenameFormat=Screenshot_%Y%M%D_%H%m%S

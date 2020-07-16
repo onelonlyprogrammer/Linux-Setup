@@ -1,5 +1,5 @@
 [$Version]
-update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
 
 [ColorEffects:Disabled]
 ChangeSelectionColor=
@@ -108,12 +108,16 @@ ForegroundPositive=128,255,128
 ForegroundVisited=255,102,102
 
 [DirSelect Dialog]
-DirSelectDialog Size=846,586
-History Items[$e]=file:$HOME/Videos/Weekly Democratic Address,file:$HOME/Downloads/Akava-Kv-master/Akava-Kv,file:$HOME/Downloads/Fluent-Dark/Fluent-Dark,file:$HOME/Downloads/Fluent-Dark,file:$HOME/Downloads,file:$HOME/Downloads/FlatBlur-Red
+DirSelectDialog Size=856,591
+History Items[$e]=file:$HOME/Documents/Sonic Heroes,file:$HOME/Downloads/We10XOS-kde-master/Kvantum/We10XOS,file:$HOME/Videos/Weekly Democratic Address,file:$HOME/Downloads/Akava-Kv-master/Akava-Kv,file:$HOME/Downloads/Fluent-Dark/Fluent-Dark,file:$HOME/Downloads/Fluent-Dark,file:$HOME/Downloads,file:$HOME/Downloads/FlatBlur-Red
 
 [General]
+BrowserApplication=firefox-developer-edition.desktop
 ColorScheme=KvCurves
 Name=Breeze Dark
+XftHintStyle=hintslight
+XftSubPixel=rgb
+dbfile=/home/myles/.mozilla/firefox/gsbwgfj9.default/places.sqlite
 shadeSortColumn=true
 widgetStyle=Breeze
 
@@ -129,7 +133,7 @@ widgetStyle=kvantum-dark
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
@@ -143,7 +147,7 @@ Sort by=Name
 Sort directories first=true
 Sort reversed=false
 Speedbar Width=138
-View Style=DetailTree
+View Style=Detail
 
 [WM]
 activeBackground=61,61,62

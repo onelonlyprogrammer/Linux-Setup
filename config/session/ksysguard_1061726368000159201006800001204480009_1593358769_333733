@@ -1,0 +1,22 @@
+[1]
+CommandList=
+Height 768=583
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAAA0gAAAISAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=840
+currentSheet=1
+isMinimized=true
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=TopLevel
+Height 768=583
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAA0gAAAISAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=840

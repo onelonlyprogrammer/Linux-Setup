@@ -1,2 +1,6 @@
 [History]
 CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://duckduckgo.com/
+ComboIconCache[$e]=https://duckduckgo.com/,text-html

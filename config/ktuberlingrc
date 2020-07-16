@@ -1,0 +1,9 @@
+[General]
+Gameboard=/usr/share/ktuberling/pics/default_theme.theme
+KeepAspectRatio=false
+Language=/usr/share/ktuberling/sounds/en.soundtheme
+Sound=on
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAFgBnAGEAbQBlAE8AcAB0AGkAbwBuAHMBAAABrP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled

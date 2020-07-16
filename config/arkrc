@@ -1,9 +1,9 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Desktop/Fe/,$HOME/Downloads/,$HOME/,$HOME/Desktop/,/run/media/myles/KINGSTON/,/run/media/myles/C011-7C06/,$HOME/.config/retroarch/cores/,/usr/share/
+DirHistory[$e]=$HOME/Desktop/,/run/media/myles/KINGSTON/Recorders/,$HOME/Downloads/,$HOME/Music/,/run/media/myles/KINGSTON/,$HOME/.minecraft/shaderpacks/,$HOME/Downloads/FE3/,$HOME/Documents/,$HOME/Documents/Sonic_CD++/,$HOME/.config/retroarch/BIOS/
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/Desktop/Fe/
+Recent URLs[$e]=file:///tmp/mozilla_myles0/
 detailViewIconSize=0
 
 [KTextEditor Document]
@@ -96,15 +96,27 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-Height 768=717
-State=AAAA/wAAAAD9AAAAAAAAAosAAAJcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1024=951
+Height 768=695
+State=AAAA/wAAAAD9AAAAAAAABSIAAAJ8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
 ToolBarsMovable=Disabled
-Width 1366=1366
-Window-Maximized 768x1366=true
-splitterSizes=432,215
+Width 1280=608
+Width 1366=1314
+splitterSizes=403,201
+
+[Recent Files]
+File1[$e]=$HOME/Documents/Fire Emblem - the Sacred Stones GBA.zip
+File2[$e]=$HOME/Documents/Sonic Heroes/Heroes_Gigapixel2019.7z
+File3[$e]=$HOME/Downloads/klingon-piqad-hasta.zip
+Name1[$e]=Fire Emblem - the Sacred Stones GBA.zip
+Name2[$e]=Heroes_Gigapixel2019.7z
+Name3[$e]=klingon-piqad-hasta.zip
 
 [Viewer]
+Height 1024=951
 Height 768=695
-State=AAAA/wAAAAD9AAAAAAAAAacAAAJ8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAYsAAAN8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+Width 1280=395
 Width 1366=423

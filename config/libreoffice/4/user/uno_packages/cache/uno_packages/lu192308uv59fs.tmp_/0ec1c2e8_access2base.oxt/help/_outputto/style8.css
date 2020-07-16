@@ -1,0 +1,61 @@
+body {
+    font-size: 100%;
+}
+.dbdatatable {
+  padding: 0;
+  margin: 0;
+  border-collapse: collapse;
+  border: 1px solid #333;
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  color: #000;
+  background: #bcd0e4;
+}
+.dbdatatable caption {
+  caption-side: bottom;
+  font-size: 0.9em;
+  font-style: italic;
+  text-align: right;
+  padding: 0.5em 0;
+}
+.dbdatatable th, .dbdatatable td {
+  border: 1px dotted #666;
+  padding: 0.5em;
+  text-align: left;
+  color: #632a39;
+  vertical-align: middle;
+}
+.dbdatatable th {
+  color: #fff;
+  background-color: #8fadcc;
+  text-transform: uppercase;
+  background-color: #7d98b3;
+  border-right: 1px dotted #666;
+  text-align: center;
+}
+.dbdatatable tr.odd th, .dbdatatable tr.odd td {
+  background-color: #fff;
+}
+.dbdatatable tr:hover td {
+  background-color: #632a2a;
+  color: #fff;
+}
+.dbdatatable tr:hover a {
+  background-color: #632a2a;
+  color: #fff;
+}
+.dbdatatable td.numeric {
+	text-align: right;
+}
+.dbdatatable td.negative {
+	color: red;
+}
+.dbdatatable td.null {
+	background-color: red;
+}
+.dbdatatable tr.firstrow {
+	border-top: 3px solid #444;
+}
+.dbdatatable tr.lastrow {
+	border-bottom: 3px solid #444;
+}

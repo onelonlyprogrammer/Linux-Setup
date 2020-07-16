@@ -1,0 +1,11 @@
+[General]
+Default Identity=641800508
+
+[Identity #0]
+Default Domain=arch
+Disable Fcc=false
+Identity=Unnamed
+Image Location=
+Inline Signature=
+Signature Enabled=false
+uoid=641800508

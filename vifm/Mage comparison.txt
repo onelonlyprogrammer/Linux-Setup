@@ -1,0 +1,5 @@
+                Base Stats                              Growths
+                                                HP      Mag     Skl     Spd     Lck     Def     Res
+Hugh	26	13	11	12	10	9	9	7	5       75% 	30% 	30% 	45% 	25% 	20% 	15% 
+Lugh    16	4	5	6	5	3	5	4	5       50% 	40% 	50% 	50% 	35% 	15% 	30% 
+Lilina  16	5	5	4	4	2	7	4	5       45% 	75% 	20% 	35% 	50% 	10% 	35% 
